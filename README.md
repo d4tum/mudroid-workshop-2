@@ -41,6 +41,14 @@ Last edited 05/05/2012.
 ###Considerations:
 - Offline (client-side) or on-line (server-side) big database
 - Do something new, or do something already done but do it better?
+- Google Maps:
+	- does not allow Developers to store map tile's on a device
+	- charges for to use the API when hits exceed certain limits https://developers.google.com/maps/faq#usagelimits
+- OpenStreetMap http://www.openstreetmap.org/ is a free and open crowdsourced mapping platform that provides free map data in exchange for an attribution.
+	- map tiles can be stored on the device
+	- map can be edited with a free account
+	- can be used in conjunction with the Google Map API which enables use of StreetView and the Directions API
+
 
 ##Starting to write an Android App with an App concept
 * Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
@@ -76,3 +84,4 @@ When you feel ready, create a new android project and copy sections from the sam
 - Get to know it well, get to love it. http://developer.android.com/reference/android/app/Activity.html
 
 Once again, bookmark the Resources tab on the Android Developer site, the left pane contains most of the resources necessary to build an Android App.
+
