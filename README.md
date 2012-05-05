@@ -43,13 +43,12 @@ Last edited 05/05/2012.
 
 ##Starting to write an Android App with an App concept
 1. Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
-2. Are they open source?
+2. What ideas can we get from them? Are any open source?
 If they are, download the source code from the repository and import it into Eclipse IDE to have a play with.
 Remember that OSS Licences are attributable to derivatives of the original source code.
 
 3. Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
-* e.g. For an NFC Contacts Swapping App:
-* We found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
+* For an NFC Contacts Swapping App, we found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
 
 4. Open the Sample Apps in Eclipse IDE:
 * Open Eclipse IDE and create a workspace
