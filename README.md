@@ -42,22 +42,24 @@ Last edited 05/05/2012.
 - Do something new, or do something already done but do it better?
 
 ##Starting to write an Android App with an App concept
-1. Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
-2. What ideas can we get from them? Are any open source?
-If they are, download the source code from the repository and import it into Eclipse IDE to have a play with.
-Remember that OSS Licences are attributable to derivatives of the original source code.
+* Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
+* What ideas can we get from them? Are any open source?
 
-3. Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
-* For an NFC Contacts Swapping App, we found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
+If they are open sourced, download the source code from the repository and import it into Eclipse IDE to have a play with.
+*Remember that OSS Licences are attributable to derivatives of the original source code.*
 
-4. Open the Sample Apps in Eclipse IDE:
-* Open Eclipse IDE and create a workspace
-* File -> New -> Android Project
-* Select "Create project from existing source" and click Next
-* Choose a build target, you should go as high as possible = Android 4.0.3 and click Next
-* From the list of samples, choose the relevant project to create, click Finish
-* Repeat these steps for every sample project that relates to the App idea
-5. Build, run and play with the source code. Modify sections to see what the changes do.
+* Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
+	- For an NFC Contacts Swapping App, we found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
+
+* Open the Sample Apps in Eclipse IDE:
+	- Open Eclipse IDE and create a workspace
+	- File -> New -> Android Project
+	- Select "Create project from existing source" and click Next
+	- Choose a build target, you should go as high as possible = Android 4.0.3 and click Next
+	- From the list of samples, choose the relevant project to create, click Finish
+	- Repeat these steps for every sample project that relates to the App idea
+
+* Build, run and play with the source code. Modify sections to see what the changes do.
 
 When you feel ready, create a new android project and copy sections from the sample source to create a protoype.
 
@@ -71,4 +73,5 @@ When you feel ready, create a new android project and copy sections from the sam
 - Select the most appropriate View for your app http://developer.android.com/resources/tutorials/views/index.html
 - The Activity lifecycle is probably the most important process of an Android App.
 - Get to know it well, get to love it. http://developer.android.com/reference/android/app/Activity.html
+
 Once again, bookmark the Resources tab on the Android Developer site, the left pane contains most of the resources necessary to build an Android App.
