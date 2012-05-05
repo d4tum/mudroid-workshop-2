@@ -40,16 +40,19 @@ Last edited 05/05/2012.
 ###Considerations:
 - Offline (client-side) or on-line (server-side) big database
 - Do something new, or do something already done but do it better?
+
 ##Starting to write an Android App with an App concept
 1. Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
 2. Are they open source?
 If they are, download the source code from the repository and import it into Eclipse IDE to have a play with.
-Remember that OSS Licences are attributable to derivation of the original software.
+Remember that OSS Licences are attributable to derivatives of the original source code.
 
-Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
+3. Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
+
 	- e.g. For an NFC Contacts Swapping App:
 	- We found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
-Open the Sample Apps in Eclipse IDE
+4 Open the Sample Apps in Eclipse IDE:
+
 	- Open Eclipse IDE and create a workspace
 	- File -> New -> Android Project
 	- Select "Create project from existing source" and click Next
