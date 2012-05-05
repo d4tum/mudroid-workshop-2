@@ -48,16 +48,16 @@ If they are, download the source code from the repository and import it into Ecl
 Remember that OSS Licences are attributable to derivatives of the original source code.
 
 3. Find sample's that relate to our idea from the Android SDK Samples http://developer.android.com/resources/browser.html?tag=sample
-- e.g. For an NFC Contacts Swapping App:
-- We found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
+* e.g. For an NFC Contacts Swapping App:
+* We found SDK/android-sdk-macosx/samples/android-15/NFCDemo and SDK/android-sdk-macosx/samples/android-15/ContactManager
 
 4. Open the Sample Apps in Eclipse IDE:
-- Open Eclipse IDE and create a workspace
-- File -> New -> Android Project
-- Select "Create project from existing source" and click Next
-- Choose a build target, you should go as high as possible = Android 4.0.3 and click Next
-- From the list of samples, choose the relevant project to create, click Finish
-- Repeat these steps for every sample project that relates to the App idea
+* Open Eclipse IDE and create a workspace
+* File -> New -> Android Project
+* Select "Create project from existing source" and click Next
+* Choose a build target, you should go as high as possible = Android 4.0.3 and click Next
+* From the list of samples, choose the relevant project to create, click Finish
+* Repeat these steps for every sample project that relates to the App idea
 5. Build, run and play with the source code. Modify sections to see what the changes do.
 
 When you feel ready, create a new android project and copy sections from the sample source to create a protoype.
