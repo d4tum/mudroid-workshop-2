@@ -4,7 +4,7 @@ Created by Matthew Browne for Mudroid, the Monash University Android Community.
 Last edited 05/05/2012.
 
 
-###PROJECT:		LocationAware (from the Android Developers site http://developer.android.com/training/basics/location/index.html)								
+###PROJECT:		LocationAware from the Android Developers site http://developer.android.com/training/basics/location/index.html								
 ###AIM: 		Discuss App idea's and how to start writing an Android App from a concept alone. Investigate reverse geocoding through the sample App code.
 ###COMPATIBLE Android versions: 2.1 to 4.0.3 (which is sdk version 7 to 15)
 ##Discussing App Ideas
@@ -24,7 +24,7 @@ Last edited 05/05/2012.
 	- Jabber
 	- Native university messaging app with push messages for offline
 - Games
-	- 3D out of our realm, maybe Open
+	- 3D out of our realm, maybe OpenGL?
 	- 2D games 
 		- Lots of card games and older games not done yet
 - Admin Tools for Schools, Unis, Businesses, etc.
@@ -33,9 +33,10 @@ Last edited 05/05/2012.
 	- Subject/Faculty
 	- IT admin-ware, SSH, Tunnelling
 - Engineering Tools (for solving problems in maths, physics, electronics, etc.)
-- ID cards Barcode saver/store
+- ID cards Barcode saver/store so we don't have to pull out our cards all the time
 - Mobile display of interesting datasets e.g. http://data.gov.au/
-	- Public Toilet Map
+	- Crime Heat Map
+	- National Public Toilet Map
 
 ###Considerations:
 - Offline (client-side) or on-line (server-side) big database
