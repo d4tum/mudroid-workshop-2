@@ -51,7 +51,7 @@ Last edited 05/05/2012.
 	- can be used in conjunction with the Google Map API which enables use of StreetView and the Directions API
 
 
-##Starting to write an Android App with an App concept
+##Starting to write an Android App from an App concept
 * Search in the Google Play Store for other Applications that are similar to our idea https://play.google.com/store?hl=en
 * What ideas can we get from them? Are any open source?
 
