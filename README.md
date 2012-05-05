@@ -73,7 +73,7 @@ If they are open sourced, download the source code from the repository and impor
 
 When you feel ready, create a new android project and copy sections from the sample source to create a protoype.
 
-##Handy references for implementing a new App
+##Handy references and tips for implementing a new App
 - This http://developer.android.com/resources/index.html is the best place to start.
 - The left pane contains most of the topics needed to start building an Android App.
 - Tutorials are also a great way to get a feel for what you'll need to do http://developer.android.com/resources/browser.html?tag=tutorial
@@ -83,7 +83,7 @@ When you feel ready, create a new android project and copy sections from the sam
 - Select the most appropriate View for your app http://developer.android.com/resources/tutorials/views/index.html
 - The Activity lifecycle is probably the most important process of an Android App.
 - Get to know it well, get to love it. http://developer.android.com/reference/android/app/Activity.html
-- Use http://developer.android.com/design/index.html for prescribed Androoid Design guidelines
+- Use http://developer.android.com/design/index.html for prescribed Android Design guidelines. This is the way Google would like you to design you App.
 - Screen cast apps for displaying your device on your PC:
 	- http://blog.ribomation.com/2010/01/droidscreen/
 	- http://code.google.com/p/androidscreencast/
