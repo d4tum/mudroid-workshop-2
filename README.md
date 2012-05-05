@@ -39,11 +39,12 @@ Last edited 05/05/2012.
 	- National Public Toilet Map
 
 ###Considerations:
+- To comply with Android Design Patterns, use ActionBarSherlock from http://actionbarsherlock.com/download.html in your apps. To add it to your project, see the README Checkpoint 1 - Adding ActionBarSherlock as a Library Project on https://github.com/qubz/mudroid-workshop-1 Also download the demo APK's to get a feel for what you can do with it
 - Offline (client-side) or on-line (server-side) big database
 - Do something new, or do something already done but do it better?
 - Google Maps:
 	- does not allow Developers to store map tile's on a device
-	- charges for to use the API when hits exceed certain limits https://developers.google.com/maps/faq#usagelimits
+	- charges for use of the API when hits exceed certain limits https://developers.google.com/maps/faq#usagelimits
 - OpenStreetMap http://www.openstreetmap.org/ is a free and open crowdsourced mapping platform that provides free map data in exchange for an attribution.
 	- map tiles can be stored on the device
 	- map can be edited with a free account
@@ -82,6 +83,12 @@ When you feel ready, create a new android project and copy sections from the sam
 - Select the most appropriate View for your app http://developer.android.com/resources/tutorials/views/index.html
 - The Activity lifecycle is probably the most important process of an Android App.
 - Get to know it well, get to love it. http://developer.android.com/reference/android/app/Activity.html
+- Use http://developer.android.com/design/index.html for prescribed Androoid Design guidelines
+- Screen cast apps for displaying your device on your PC:
+	- http://blog.ribomation.com/2010/01/droidscreen/
+	- http://code.google.com/p/androidscreencast/
+- Wireless ADB app, run ADB without a USB cable (this is not built into CM9 under the Settings -> Developement)
+	- https://play.google.com/store/apps/details?id=siir.es.adbWireless
 
 Once again, bookmark the Resources tab on the Android Developer site, the left pane contains most of the resources necessary to build an Android App.
 
