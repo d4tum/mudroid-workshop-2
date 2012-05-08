@@ -18,41 +18,68 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
-    <LinearLayout android:layout_width="match_parent"
+
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal" >
-        <Button android:id="@+id/provider_fine"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/use_fine_provider"
-            android:background="@drawable/button_inactive"
-            android:minWidth="160sp"
-            android:onClick="useFineProvider" />
 
-        <Button android:id="@+id/provider_both"
+        <Button
+            android:id="@+id/provider_fine"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/use_both_providers"
             android:background="@drawable/button_inactive"
             android:minWidth="160sp"
-            android:onClick="useCoarseFineProviders" />
+            android:onClick="useFineProvider"
+            android:text="@string/use_fine_provider" />
+
+        <Button
+            android:id="@+id/provider_both"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_inactive"
+            android:minWidth="160sp"
+            android:onClick="useCoarseFineProviders"
+            android:text="@string/use_both_providers" />
     </LinearLayout>
-    <TextView android:id="@+id/label_latlng"
+
+    <TextView
+        android:id="@+id/label_latlng"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="22sp"
-        android:text="@string/latlng" />
-    <TextView android:id="@+id/latlng"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="20sp" />
-    <TextView android:id="@+id/label_address"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="22sp"
-        android:text="@string/address" />
-    <TextView android:id="@+id/address"
+        android:text="@string/latlng"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/latlng"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/label_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/address"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/label_accuracy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/accuracy"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/accuracy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
 </LinearLayout>

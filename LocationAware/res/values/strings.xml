@@ -16,6 +16,7 @@
 -->
 <resources>
     <string name="app_name">Android Training: Location Update</string>
+    <string name="accuracy">Accuracy:</string>
     <string name="address">Address:</string>
     <string name="enable_gps">Enable GPS</string>
     <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
