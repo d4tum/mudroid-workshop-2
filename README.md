@@ -5,8 +5,8 @@ Last edited 05/05/2012.
 
 
 ###PROJECT:		LocationAware from the Android Developers site http://developer.android.com/training/basics/location/index.html								
-###AIM: 		Discuss App idea's and how to start writing an Android App from a concept alone. Investigate reverse geocoding through the sample App code.
-###COMPATIBLE Android versions: 2.1 to 4.0.3 (which is sdk version 7 to 15)
+###AIM: 		Discuss App ideas and how to start writing an Android App from a concept alone. Investigate reverse geocoding through the sample App code.
+###COMPATIBLE:	Android version 2.1 to 4.0.3 (sdk 7 to 15)
 ##Discussing App Ideas
 ###Requirements for an Android App
 - Cool
@@ -15,7 +15,7 @@ Last edited 05/05/2012.
 - Fun
 - Novel
 
-###App Idea's
+###App Ideas
 - Location Aware
 	- Uni library/Shop discount notifications
 - Social Networking
